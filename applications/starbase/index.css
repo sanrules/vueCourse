@@ -1,0 +1,14 @@
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.character-card {
+  border: 0.2em solid #658061;
+  border-radius: 0.2em;
+  cursor: pointer;
+  padding: 1px;
+}
